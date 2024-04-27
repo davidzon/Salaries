@@ -18,4 +18,5 @@ class Employee {
 const leo = new Employee('Leonardo', 90000, 'Ninja');
 console.log(leo)
 
+
 module.exports = Employee;
