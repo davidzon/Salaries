@@ -29,4 +29,4 @@ splinter.addEmployee(raph);
 
 console.log('After: ', splinter);
 
-module.exports = Manager
+module.exports = Manager;
